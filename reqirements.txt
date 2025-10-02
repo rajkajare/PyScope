@@ -2,3 +2,5 @@ streamlit
 importlib
 inspect
 pkgutil
+sklearn
+pyspark
